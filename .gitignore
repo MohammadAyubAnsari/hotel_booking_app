@@ -3,3 +3,5 @@ backend/.env
 
 frontend/.env
 backend/.env.e2e
+
+e2e-tests
