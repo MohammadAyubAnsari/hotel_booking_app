@@ -50,7 +50,7 @@ const MyHotels = () => {
               </div>
               <div className="border border-slate-300 rounded-sm p-3 flex items-center">
                 <BiStar className="mr-1" />
-                {hotel.starRating}
+                {hotel.starRating} Star Rating
               </div>
             </div>
             <span className="flex justify-end ">
